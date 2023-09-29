@@ -1,15 +1,32 @@
-<p align="center">
+<!--
+<p align="right">
 <a href="https://holopin.io/@guptapratik02">
   <img src="https://holopin.me/guptapratik02" alt="An image of @guptapratik02's Holopin badges, which is a link to view their full Holopin profile"  height="200">
 </a> </p>
 
+<p align="left" width="100%">
+    <img width="25%" height="1%" src="https://github.com/GuptaPratik02/GuptaPratik02/blob/main/pratik-gif.gif">
+</p>
+-->
+
+<table border="10px">
+  <tr>
+    <td>
+      <img width="90%" src="https://github.com/GuptaPratik02/GuptaPratik02/blob/main/pratik-gif.gif" alt="Image 1" align="left">
+    </td>
+    <td>
+      <p>
+        <a href="https://holopin.io/@guptapratik02">
+          <img src="https://holopin.me/guptapratik02" alt="An image of @guptapratik02's Holopin badges, which is a link to view their full Holopin profile"  height="235" width="1000" align="right">
+        </a> 
+      </p>
+    </td>
+  </tr>
+</table>
+
 ### [Hey 👋, I'm Pratik!](https://guptapratik-portfolio-linkrtree.pages.dev/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
 I am Pratik Gupta, a Python Enthusiast, Flutter Developer, Competitive Programmer and Open Source Contributor.
-
-<p align="center" width="100%">
-    <img width="25%" height="1%" src="https://github.com/GuptaPratik02/GuptaPratik02/blob/main/pratik-gif.gif">
-</p>
 
 <h2 align="left">💻 Tech Stack </h2>
 <br>
@@ -20,6 +37,6 @@ I am Pratik Gupta, a Python Enthusiast, Flutter Developer, Competitive Programme
  <br>
 <div style="display: flex; flex-direction: row;">
   <a href="#">
-    <img alt="Pratik's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=GuptaPratik02&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="350px">
+    <img alt="Pratik's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=GuptaPratik02&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" >
   </a>
 </div>
